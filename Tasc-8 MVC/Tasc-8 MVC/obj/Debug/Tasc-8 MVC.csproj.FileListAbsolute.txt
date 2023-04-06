@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\bin\Debug\Tasc-8 MVC.exe.config
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\bin\Debug\Tasc-8 MVC.exe
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\bin\Debug\Tasc-8 MVC.pdb
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc-8 MVC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc-8 MVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc_8_MVC.Form1.resources
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc_8_MVC.Properties.Resources.resources
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc-8 MVC.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc-8 MVC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc-8 MVC.exe
+C:\Users\User\source\repos\Tasc-8 MVC\Tasc-8 MVC\obj\Debug\Tasc-8 MVC.pdb
